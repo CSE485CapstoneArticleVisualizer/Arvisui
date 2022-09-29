@@ -23,7 +23,7 @@
     "@angular/platform-browser-dynamic": "~7.2.8",
     "@angular/router": "~7.2.8",
     "core-js": "^2.6.5",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "primeicons": "^1.0.0",
     "primeng": "^7.1.0-rc.1",
     "rxjs": "~6.4.0",
